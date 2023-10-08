@@ -4,7 +4,7 @@ Hi, I'm Dilan Ugus
 
 This is my progress journal for the course IE 582 .
 
-You can use the [editor on GitHub]([https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md](https://bu-ie-582.github.io/fall-23-ugusdilan/)) to maintain and preview the content of my website.
+You can use the [editor on GitHub]([https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md]) to maintain and preview the content of my website.
 
 
 ### Support or Contact
