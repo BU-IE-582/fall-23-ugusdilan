@@ -2,6 +2,8 @@
 
 Hi, I'm Dilan Ugus!
 
+HW1 Info:
+
 This is my progress journal for the course IE 582 .
 
 Here is the link of my [web page](https://bu-ie-582.github.io/fall-23-ugusdilan/)
