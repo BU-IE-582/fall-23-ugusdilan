@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Hi, I'm Dilan Ugus
+Hi, I'm Dilan Ugus!
 
 This is my progress journal for the course IE 582 .
 
