@@ -12,3 +12,10 @@ Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md) to maintain and preview the content of my website.
 
+### HOMEWORK 2 
+
+My work about  [Homework 2](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/main/HW2) can be reached from [HTML file](HW2/IE582-HW2-v2.html)
+
+Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/HW2/IE582-HW2-v2.ipynb)
+
+You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md) to maintain and preview the content of my website.
