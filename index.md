@@ -22,7 +22,7 @@ You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdila
 
 ### PROJECT 
 
-My work about  [Homework 2](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/main/PROJECT) can be reached from [HTML file](PROJECT/main.html)
+My work about  [Project](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/main/PROJECT) can be reached from [HTML file](PROJECT/main.html)
 
 Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/PROJECT/main.ipynb)
 
