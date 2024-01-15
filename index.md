@@ -24,6 +24,8 @@ You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdila
 
 My work about  [Project](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/main/PROJECT) can be reached from [HTML file](PROJECT/main.html)
 
+The project report can be reached from [this link](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/PROJECT/Project%20Report.pdf)
+
 Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/PROJECT/main.ipynb)
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md) to maintain and preview the content of my website.
