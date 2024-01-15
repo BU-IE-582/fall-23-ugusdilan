@@ -19,3 +19,11 @@ My work about  [Homework 2](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/
 Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/HW2/IE582-HW2-v2.ipynb)
 
 You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md) to maintain and preview the content of my website.
+
+### PROJECT 
+
+My work about  [Homework 2](https://github.com/BU-IE-582/fall-23-ugusdilan/tree/main/PROJECT) can be reached from [HTML file](PROJECT/main.html)
+
+Here is the link of my jupyter notebook [web page](https://github.com/BU-IE-582/fall-23-ugusdilan/blob/main/PROJECT/main.ipynb)
+
+You can use the [editor on GitHub](https://github.com/BU-IE-582/fall-23-ugusdilan/edit/main/index.md) to maintain and preview the content of my website.
